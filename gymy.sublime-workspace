@@ -4,12 +4,12 @@
 		"selected_items":
 		[
 			[
-				"bord",
-				"border"
+				"margin",
+				"margin-bottom"
 			],
 			[
-				"margin",
-				"margin-top"
+				"bord",
+				"border"
 			],
 			[
 				"text",
@@ -519,29 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "style.css",
-			"settings":
-			{
-				"buffer_size": 4680,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 8802,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -618,13 +595,18 @@
 	"expanded_folders":
 	[
 		"/Users/Daniel/Sites/Side Projects/Gymy",
-		"/Users/Daniel/Sites/Side Projects/Gymy/css"
+		"/Users/Daniel/Sites/Side Projects/Gymy/css",
+		"/Users/Daniel/Sites/Side Projects/Gymy/js"
 	],
 	"file_history":
 	[
+		"/Users/Daniel/Sites/Side Projects/Gymy/style.css",
+		"/Users/Daniel/Sites/Side Projects/Gymy/index.html",
+		"/Users/Daniel/Sites/Idea Starter/app/jade/mentors.jade",
+		"/Users/Daniel/Sites/Idea Starter/app/styles/main.styl",
+		"/Users/Daniel/Sites/Idea Starter/app/jade/index.jade",
 		"/Users/Daniel/Sites/ImageHost/StudyNotes.ie/Emails/2015/May_Maths.html",
 		"/Users/Daniel/Sites/Idea Starter/app/jade/partials/_scripts.jade",
-		"/Users/Daniel/Sites/Idea Starter/app/jade/index.jade",
 		"/Users/Daniel/Sites/Idea Starter/app/jade/partials/_footer.jade",
 		"/Users/Daniel/Sites/Idea Starter/app/jade/hackathon.jade",
 		"/Users/Daniel/Sites/Idea Starter/tasks/jade.js",
@@ -637,7 +619,6 @@
 		"/Users/Daniel/Sites/Personal/Share+/JS/shareplus/shareplus.js",
 		"/Users/Daniel/Downloads/BeefHackathon/HERD/war/assets/js/main.js",
 		"/Users/Daniel/Downloads/levin/index.html",
-		"/Users/Daniel/Sites/Idea Starter/app/styles/main.styl",
 		"/Users/Daniel/Downloads/BeefHackathon/HERD/war/upload.php",
 		"/Users/Daniel/Sites/Idea Starter/app/jade/contact.jade",
 		"/Users/Daniel/Sites/Idea Starter/app/scripts/main.js",
@@ -746,14 +727,11 @@
 		"/Users/Daniel/Dropbox/College/CS Labs/Year 2/CS210/AIB Data Lab/Utils.java",
 		"/Users/Daniel/Dropbox/College/CS Labs/Year 2/CS210/AIB Data Lab/Users.java",
 		"/Users/Daniel/Dropbox/College/CS Labs/Year 2/CS210/Levin/Movies.txt",
-		"/Users/Daniel/Dropbox/College/CS Labs/Year 2/CS210/Levin/levin.java",
-		"/Users/Daniel/Sites/Personal/cookieinfo.js/Cookie Info/CookieInfo jQuery Version/CookieInfo jQuery Plugin/CookieInfo/CookieInfo.js",
-		"/Users/Daniel/Dropbox/College/CS Labs/Year 2/CS210/AIB Data Lab/AveragePrediction.java",
-		"/Users/Daniel/Dropbox/College/CS Labs/Year 2/CS210/AIB Data Lab/FileIO.java"
+		"/Users/Daniel/Dropbox/College/CS Labs/Year 2/CS210/Levin/levin.java"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -775,6 +753,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".col-md",
+			"#footer-copy small, div.people .col-md-4",
 			"#home-image",
 			"section",
 			"z-index",
@@ -879,96 +859,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4680,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8802,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
