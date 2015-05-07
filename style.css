@@ -1,18 +1,18 @@
 
-@import url(http://fonts.googleapis.com/css?family=Nunito);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Arimo);
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
 
 
 
 body {
   background: #F8F9FB;
-  font-family: 'Open Sans', sans-serif;
+    font-family: 'Arimo', sans-serif;
   font-size: 12px;
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Nunito', sans-serif;
+h1 {
+    font-family: 'Pacifico', cursive;
 }
 
 
@@ -148,7 +148,7 @@ section {
   color: white;
   padding: 160px 0;
   
-  background: url(img/stock/laptop-google-bg.jpg) no-repeat center center fixed; 
+  background: url(img/stock/machines-bg.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
